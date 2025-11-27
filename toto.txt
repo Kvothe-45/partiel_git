@@ -1,6 +1,9 @@
 je suis en entraienement en vue du partiel vendredi
-
+blablou
 nouveau text test 
+<<<<<<< HEAD
 
 
 test conflit
+=======
+>>>>>>> 00e7ecac66f0b68175ce5757643675dc251dbd2d
